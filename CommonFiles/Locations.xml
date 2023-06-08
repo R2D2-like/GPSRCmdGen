@@ -5,14 +5,6 @@
   and distributed by the Organizing Committee during Setup days
 //-->
 <rooms>
-  <room name="corridor">
-    <location name="entrance" isBeacon="true" />
-  </room>
-  <room name="bedroom">
-    <location name="bed" isBeacon="true" />
-    <location name="side table" isPlacement="true" />
-    <location name="desk" isBeacon="true" isPlacement="true" />
-  </room>
   <room name="dining room">
     <location name="chair" isBeacon="true" isPlacement="true" />
     <location name="side table" isBeacon="true" isPlacement="true" />
