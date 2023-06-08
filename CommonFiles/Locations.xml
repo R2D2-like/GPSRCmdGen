@@ -14,20 +14,18 @@
     <location name="desk" isBeacon="true" isPlacement="true" />
   </room>
   <room name="dining room">
-    <location name="dining table" isBeacon="true" isPlacement="true" />
+    <location name="chair" isBeacon="true" isPlacement="true" />
+    <location name="side table" isBeacon="true" isPlacement="true" />
+    <location name="shelf" isBeacon="true" isPlacement="true" />
   </room>
   <room name="living room">
-    <location name="exit" isBeacon="true" />
-    <location name="couch" isBeacon="true" />
+    <location name="low table" isBeacon="true" />
+    <location name="long table" isBeacon="true" />
     <location name="end table" isBeacon="true" isPlacement="true" />
-    <location name="bookcase" isPlacement="true" isBeacon="true" />
   </room>
   <room name="kitchen">
-    <location name="cupboard" isPlacement="true" />
     <location name="storage table" isPlacement="true" />
-    <location name="sink" isBeacon="true" isPlacement="true" />
     <location name="counter" isPlacement="true" />
-    <location name="dishwasher" isBeacon="true" />
   </room>
 </rooms>
 
